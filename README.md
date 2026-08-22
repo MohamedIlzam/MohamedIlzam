@@ -1,6 +1,6 @@
 ## Ilzam M.I.M <a href="https://www.linkedin.com/in/ilzam-ibrahim"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" align="right" alt="LinkedIn"/></a>
 
-I’m an AI-Enabled Full-Stack Engineer passionate about system architecture and automating development workflows. I specialize in building fault-tolerant distributed systems, multi-tier backends, and integrating LLMs and RAG pipelines into production environments. I enjoy taking ownership of the full engineering lifecycle—from relational database provisioning to containerized deployments—and continuously exploring advanced Model Context Protocol (MCP) servers and Agentic workflows.
+I’m an AI-Enabled Full-Stack Engineer passionate about system architecture and automating development workflows. I specialize in building fault-tolerant distributed systems, multi-tier backends, and integrating LLMs and RAG pipelines into production environments. I enjoy taking ownership of the full engineering lifecycle, from relational database provisioning to containerized deployments, and continuously exploring advanced Model Context Protocol (MCP) servers and Agentic workflows.
 
 ---
 
