@@ -14,41 +14,43 @@ I build fault-tolerant multi-tier systems and integrate LLMs/RAG pipelines into 
 
 ### ⚡ Tech Stack
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=40&section=header&text=Languages&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
 
-<p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+**🔤 Languages**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8250DF&height=40&section=header&text=Backend%20and%20Database&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://skillicons.dev/icons?i=java,python,cs,c,ts" height="40"/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
+</td>
+<td width="33%" valign="top" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=40&section=header&text=Infra%20and%20AI&fontSize=18&fontColor=ffffff&animation=blinking" width="100%"/>
+**🗄️ Backend & DB**
 
-<p align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-FF9900?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=spring,nestjs,prisma,postgres,mysql,redis" height="40"/>
 
+</td>
+<td width="34%" valign="top" align="center">
+
+**🤖 Infra & AI**
+
+<img src="https://skillicons.dev/icons?i=docker" height="40"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/LLMs-FF9900?style=flat-square&logo=openai&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square&logo=python&logoColor=white" height="26"/>
+
+</td>
+</tr>
+</table>
 <br>
 
 ### 🏗️ Featured Architecture
 
-<details open>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<details>
 <summary><b>🔗 Distributed Messaging System</b> — 3-node fault-tolerant cluster</summary>
 <br>
 
@@ -58,6 +60,9 @@ Tiered LRU/SQL storage · Quorum Consensus replication · self-healing active re
 
 [**→ View repo**](https://github.com/aruns-ue25/DS-Messaging-System)
 </details>
+
+</td>
+<td width="50%" valign="top">
 
 <details>
 <summary><b>🍞 Kodikara BMS</b> — containerized enterprise ERP</summary>
@@ -70,6 +75,11 @@ REST APIs with DTO mapping · automated Cypress E2E suite · CI-ready containeri
 [**→ View repo**](https://github.com/MohamedIlzam/Bakery-Management-System-Project)
 </details>
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <details>
 <summary><b>🤝 Skill-Share</b> — P2P skill exchange platform</summary>
 <br>
@@ -80,6 +90,9 @@ Dynamic multi-criteria search via JPA Specifications · responsive glassmorphic 
 
 [**→ View repo**](https://github.com/aruns-ue25/Skill-Share)
 </details>
+
+</td>
+<td width="50%" valign="top">
 
 <details>
 <summary><b>🔥 CalTrack</b> — mobile-first fitness app with an AI coach</summary>
@@ -92,7 +105,13 @@ Multi-tier Redis-cached backend · AI chat coach grounded in real user activity 
 [**→ View repo**](https://github.com/MohamedIlzam/CalTrack)
 </details>
 
+</td>
+</tr>
+</table>
+
 <br>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=40&section=header&text=Stats&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
 
