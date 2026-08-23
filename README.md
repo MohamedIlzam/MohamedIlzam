@@ -12,6 +12,8 @@ I build fault-tolerant multi-tier systems and integrate LLMs/RAG pipelines into 
 
 <br>
 
+<div align="center">
+  
 ### ⚡ Tech Stack
 
 <table width="100%">
@@ -42,6 +44,7 @@ I build fault-tolerant multi-tier systems and integrate LLMs/RAG pipelines into 
 </td>
 </tr>
 </table>
+</div>
 <br>
 
 ### 🏗️ Featured Architecture
@@ -112,20 +115,23 @@ Multi-tier Redis-cached backend · AI chat coach grounded in real user activity 
 <br>
 
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=40&section=header&text=Stats&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedIlzam&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=40&section=header&text=Stats&fontSize=18&fontColor=ffffff&animation=twinkling" width="90%"/>
+
+<table width="90%">
+<tr>
+<td width="45%" valign="top" align="center">
+
 ![Streak](https://streak-stats.demolab.com?user=MohamedIlzam&theme=tokyonight&hide_border=true)
 
+</td>
+<td width="55%" valign="top" align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedIlzam&theme=tokyo-night&hide_border=true&area=true)
+
+</td>
+</tr>
+</table>
+
 </div>
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=MohamedIlzam&theme=darkhub&no-frame=true&row=1&column=6)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer" width="100%"/>
