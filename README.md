@@ -54,7 +54,7 @@ I build fault-tolerant multi-tier systems and integrate LLMs/RAG pipelines into 
 <td width="50%" valign="top">
 
 <details>
-<summary><b>🔗 Distributed Messaging System</b> — 3-node fault-tolerant cluster</summary>
+<summary><b>🔗 Distributed Messaging System</b> — fault-tolerant cluster</summary>
 <br>
 
 `Java` `MySQL` `HikariCP`
