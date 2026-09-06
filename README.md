@@ -9,18 +9,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ilzam--ibrahim-0f172a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilzam-ibrahim)
 [![Email](https://img.shields.io/badge/Email-mohammedilzam0%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedilzam0@gmail.com)
 
-</div>
-
-<div align="center">
-
-I build **AI systems** that combine **agents, retrieval, backend architecture, and deployment infrastructure**.
+**AI systems · agentic workflows · backend engineering · deployment**
 
 </div>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/featured-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/featured-light.svg">
-  <img alt="Selected systems" src="./assets/featured-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/reel-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/reel-light.svg">
+  <img alt="Selected systems" src="./assets/reel-dark.svg" width="100%">
 </picture>
