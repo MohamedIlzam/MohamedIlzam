@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-showcase.svg" alt="Mohamed Ilzam — AI Systems Engineer" width="100%" />
+  <img src="./assets/profile-showcase-v2.svg" alt="Mohamed Ilzam — AI Systems Engineer" width="100%" />
 </p>
 
 <div align="center">
