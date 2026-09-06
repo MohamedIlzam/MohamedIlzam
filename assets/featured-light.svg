@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
+  <title id="t">Selected Systems</title>
+  <desc id="d">Animated featured systems panel with four compact project cards.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+    <linearGradient id="flowBlue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563eb" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#2563eb" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#2563eb" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="flowGold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#d97706" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#f59e0b" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#d97706" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="360" rx="26" fill="url(#bg2)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="25" fill="none" stroke="#24292f"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="54" y="48" fill="#57606a" font-size="14" letter-spacing="3">SELECTED SYSTEMS</text>
+    <text x="54" y="78" fill="#24292f" font-size="14">small set. strong signal. backend-heavy.</text>
+
+    <g transform="translate(54 104)">
+      <g>
+        <rect x="0" y="0" width="515" height="92" rx="18" fill="#10161f" stroke="#253041"/>
+        <text x="24" y="28" fill="#2563eb" font-size="13">01</text>
+        <text x="24" y="52" fill="#24292f" font-size="18" font-weight="700">Distributed Messaging</text>
+        <text x="24" y="76" fill="#57606a" font-size="12">quorum replication · read repair · idempotent writes</text>
+        <path d="M350 46 H474" stroke="#d0d7de" stroke-width="2"/>
+        <path d="M350 46 H474" stroke="url(#flowBlue)" stroke-width="3" stroke-dasharray="22 95">
+          <animate attributeName="stroke-dashoffset" from="117" to="0" dur="2.6s" repeatCount="indefinite"/>
+        </path>
+        <circle cx="352" cy="46" r="9" fill="#eef4ff" stroke="#2563eb"/><circle cx="414" cy="46" r="9" fill="#eef4ff" stroke="#2563eb"/><circle cx="474" cy="46" r="9" fill="#eef4ff" stroke="#2563eb"/>
+      </g>
+
+      <g transform="translate(0 110)">
+        <rect x="0" y="0" width="515" height="92" rx="18" fill="#10161f" stroke="#253041"/>
+        <text x="24" y="28" fill="#d97706" font-size="13">02</text>
+        <text x="24" y="52" fill="#24292f" font-size="18" font-weight="700">CalTrack</text>
+        <text x="24" y="76" fill="#57606a" font-size="12">AI coach · Redis caching · vector-enabled application flow</text>
+        <path d="M332 46 H474" stroke="#d0d7de" stroke-width="2"/>
+        <path d="M332 46 H474" stroke="url(#flowGold)" stroke-width="3" stroke-dasharray="22 110">
+          <animate attributeName="stroke-dashoffset" from="132" to="0" dur="3s" begin="0.5s" repeatCount="indefinite"/>
+        </path>
+        <circle cx="332" cy="46" r="8.5" fill="#eef4ff" stroke="#d97706"/><circle cx="382" cy="46" r="8.5" fill="#eef4ff" stroke="#d97706"/><circle cx="428" cy="46" r="8.5" fill="#eef4ff" stroke="#d97706"/><circle cx="474" cy="46" r="8.5" fill="#eef4ff" stroke="#d97706"/>
+      </g>
+    </g>
+
+    <g transform="translate(630 104)">
+      <g>
+        <rect x="0" y="0" width="515" height="92" rx="18" fill="#10161f" stroke="#253041"/>
+        <text x="24" y="28" fill="#2563eb" font-size="13">03</text>
+        <text x="24" y="52" fill="#24292f" font-size="18" font-weight="700">Kodikara BMS</text>
+        <text x="24" y="76" fill="#57606a" font-size="12">containerized ERP · operations workflows · E2E automation</text>
+        <rect x="368" y="30" width="98" height="32" rx="16" fill="#eef4ff" stroke="#2563eb"/>
+        <text x="417" y="50" text-anchor="middle" fill="#24292f" font-size="12">DOCKERIZED</text>
+      </g>
+
+      <g transform="translate(0 110)">
+        <rect x="0" y="0" width="515" height="92" rx="18" fill="#10161f" stroke="#253041"/>
+        <text x="24" y="28" fill="#d97706" font-size="13">04</text>
+        <text x="24" y="52" fill="#24292f" font-size="18" font-weight="700">Skill Share</text>
+        <text x="24" y="76" fill="#57606a" font-size="12">dynamic multi-criteria search · structured backend services</text>
+        <path d="M358 46 C390 10, 452 10, 484 46 C452 82, 390 82, 358 46Z" fill="none" stroke="#d97706"/>
+        <circle cx="421" cy="46" r="5" fill="#f59e0b">
+          <animate attributeName="cx" values="385;456;385" dur="2.7s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+    </g>
+  </g>
+</svg>
