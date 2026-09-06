@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+  <title id="title">Selected Systems</title>
+  <desc id="desc">Compact animated project reel.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="210" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="208" rx="23" fill="none" stroke="#24292f"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="50" y="42" fill="#57606a" font-size="13" letter-spacing="3">SELECTED SYSTEMS</text>
+
+    <!-- card group -->
+    <g transform="translate(50 68)">
+      <g>
+        <rect x="0" y="0" width="252" height="100" rx="18" fill="#f3f6fa" stroke="#c0cad5"/>
+        <text x="18" y="28" fill="#2563eb" font-size="12">01</text>
+        <text x="18" y="54" fill="#24292f" font-size="17" font-weight="700">Distributed Messaging</text>
+        <text x="18" y="76" fill="#57606a" font-size="12">fault tolerance · quorum replication</text>
+        <rect x="18" y="86" width="90" height="4" rx="2" fill="#2563eb">
+          <animate attributeName="width" values="20;168;20" dur="2.6s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+
+      <g transform="translate(282 0)">
+        <rect x="0" y="0" width="252" height="100" rx="18" fill="#f3f6fa" stroke="#c0cad5"/>
+        <text x="18" y="28" fill="#d97706" font-size="12">02</text>
+        <text x="18" y="54" fill="#24292f" font-size="17" font-weight="700">CalTrack</text>
+        <text x="18" y="76" fill="#57606a" font-size="12">AI coach · Redis · vector search</text>
+        <circle cx="38" cy="90" r="5" fill="#f59e0b">
+          <animate attributeName="cx" values="38;214;38" dur="2.4s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+
+      <g transform="translate(564 0)">
+        <rect x="0" y="0" width="252" height="100" rx="18" fill="#f3f6fa" stroke="#c0cad5"/>
+        <text x="18" y="28" fill="#2563eb" font-size="12">03</text>
+        <text x="18" y="54" fill="#24292f" font-size="17" font-weight="700">Kodikara BMS</text>
+        <text x="18" y="76" fill="#57606a" font-size="12">containerized ERP · E2E automation</text>
+        <rect x="167" y="18" width="66" height="18" rx="9" fill="#f6f8fa" stroke="#2563eb"/>
+        <text x="200" y="31" text-anchor="middle" fill="#24292f" font-size="10">DOCKER</text>
+        <rect x="167" y="18" width="66" height="18" rx="9" fill="none" stroke="#2563eb" opacity="0.2">
+          <animate attributeName="opacity" values="0.12;0.55;0.12" dur="1.6s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+
+      <g transform="translate(846 0)">
+        <rect x="0" y="0" width="252" height="100" rx="18" fill="#f3f6fa" stroke="#c0cad5"/>
+        <text x="18" y="28" fill="#d97706" font-size="12">04</text>
+        <text x="18" y="54" fill="#24292f" font-size="17" font-weight="700">Skill Share</text>
+        <text x="18" y="76" fill="#57606a" font-size="12">dynamic search · structured services</text>
+        <path d="M150 88 H220" stroke="#d97706" stroke-width="3" stroke-linecap="round" stroke-dasharray="16 40">
+          <animate attributeName="stroke-dashoffset" from="56" to="0" dur="1.8s" repeatCount="indefinite"/>
+        </path>
+      </g>
+    </g>
+  </g>
+</svg>
