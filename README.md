@@ -16,7 +16,16 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/reel-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/reel-light.svg">
-  <img alt="Selected systems" src="./assets/reel-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/projects-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/projects-light.svg">
+  <img alt="Selected systems project reel" src="./assets/projects-dark.svg" width="100%">
 </picture>
+
+<div align="center">
+
+[Distributed Messaging](https://github.com/aruns-ue25/DS-Messaging-System) ·
+[CalTrack](https://github.com/MohamedIlzam/CalTrack) ·
+[Kodikara BMS](https://github.com/MohamedIlzam/Bakery-Management-System-Project) ·
+[Skill Share](https://github.com/aruns-ue25/Skill-Share)
+
+</div>
