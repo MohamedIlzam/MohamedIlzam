@@ -1,137 +1,88 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="Mohamed Ilzam — AI Systems Engineer" src="./assets/hero-dark.svg" width="100%">
+</picture>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI-Enabled+Full-Stack+Engineer;Distributed+Systems+%7C+LLMs+%2B+RAG;Building+fault-tolerant+backends" alt="Typing SVG" />
-
-<a href="mailto:mohammedilzam0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/ilzam-ibrahim"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=MohamedIlzam&style=flat-square&color=2E9EF7" alt="profile views"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ilzam--ibrahim-111111?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilzam-ibrahim)
+[![Email](https://img.shields.io/badge/Email-mohammedilzam0%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedilzam0@gmail.com)
 
 </div>
 
-I build fault-tolerant multi-tier systems and integrate LLMs/RAG pipelines into production-grade environments — owning the full lifecycle from database design to containerized deployment. Currently exploring Model Context Protocol (MCP) servers and agentic workflows.
+I build **AI-enabled backend systems** that combine agentic workflows, retrieval, distributed services, and production infrastructure. My current focus is moving beyond isolated LLM features toward systems that can **retrieve context, use tools, maintain state, and operate reliably in production**.
 
-<br>
+---
 
-<div align="center">
-  
-### ⚡ Tech Stack
+## Selected Systems
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top" align="center">
-
-**🔤 Languages**
-
-<img src="https://skillicons.dev/icons?i=java,python,cs,c,ts" height="40"/>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-**🗄️ Backend & DB**
-
-<img src="https://skillicons.dev/icons?i=spring,nestjs,prisma,postgres,mysql,redis" height="40"/>
-
-</td>
-<td width="34%" valign="top" align="center">
-
-**🤖 Infra & AI**
-
-<img src="https://skillicons.dev/icons?i=docker" height="40"/>
-<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/LLMs-FF9900?style=flat-square&logo=openai&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square&logo=python&logoColor=white" height="26"/>
-
-</td>
-</tr>
-</table>
-</div>
-<br>
-
-### 🏗️ Featured Architecture
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<details>
-<summary><b>🔗 Distributed Messaging System</b> — fault-tolerant cluster</summary>
-<br>
-
+### 🔗 Distributed Messaging System
 `Java` `MySQL` `HikariCP`
 
-Tiered LRU/SQL storage · Quorum Consensus replication · self-healing active read repair · idempotent writes
+Fault-tolerant cluster with **tiered LRU/SQL storage, quorum consensus replication, active read repair, and idempotent writes**.
 
-[**→ View repo**](https://github.com/aruns-ue25/DS-Messaging-System)
-</details>
+[View repository →](https://github.com/aruns-ue25/DS-Messaging-System)
 
-</td>
-<td width="50%" valign="top">
+### 🔥 CalTrack
+`Next.js` `NestJS` `PostgreSQL` `pgvector` `Prisma` `Redis`
 
-<details>
-<summary><b>🍞 Kodikara BMS</b> — containerized enterprise ERP</summary>
-<br>
+Mobile-first fitness platform with an **AI coach grounded in user activity data**, backed by Redis caching and vector-enabled PostgreSQL.
 
-`Java` `Spring Boot` `React` `Docker`
+[View repository →](https://github.com/MohamedIlzam/CalTrack)
 
-REST APIs with DTO mapping · automated Cypress E2E suite · CI-ready containerized deployment
+### 🍞 Kodikara BMS
+`Java` `Spring Boot` `React` `MySQL` `Docker` `Cypress`
 
-[**→ View repo**](https://github.com/MohamedIlzam/Bakery-Management-System-Project)
-</details>
+Containerized enterprise management platform covering operational workflows, sales distribution, payments, reporting, and automated E2E testing.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+[View repository →](https://github.com/MohamedIlzam/Bakery-Management-System-Project)
 
-<details>
-<summary><b>🤝 Skill-Share</b> — P2P skill exchange platform</summary>
-<br>
-
+### 🤝 Skill Share
 `Java` `Spring Boot` `JPA`
 
-Dynamic multi-criteria search via JPA Specifications · responsive glassmorphic UI
+P2P skill exchange system with **dynamic multi-criteria search using JPA Specifications** and a structured backend architecture.
 
-[**→ View repo**](https://github.com/aruns-ue25/Skill-Share)
-</details>
+[View repository →](https://github.com/aruns-ue25/Skill-Share)
 
-</td>
-<td width="50%" valign="top">
+---
 
-<details>
-<summary><b>🔥 CalTrack</b> — mobile-first fitness app with an AI coach</summary>
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/systems-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/systems-light.svg">
+  <img alt="Current systems focus" src="./assets/systems-dark.svg" width="100%">
+</picture>
 
-`Next.js` `NestJS` `Prisma` `Redis`
+## Engineering Stack
 
-Multi-tier Redis-cached backend · AI chat coach grounded in real user activity data
+**AI / Intelligent Systems**  
+`LLMs` · `RAG` · `Agents` · `MCP` · `Vector Search`
 
-[**→ View repo**](https://github.com/MohamedIlzam/CalTrack)
-</details>
+**Backend**  
+`Java` · `Spring Boot` · `Python` · `NestJS` · `Prisma`
 
-</td>
-</tr>
-</table>
+**Data**  
+`PostgreSQL` · `pgvector` · `MySQL` · `Redis`
 
-<br>
+**Infrastructure**  
+`Docker` · `Linux` · `CI/CD`
 
+**Frontend**  
+`TypeScript` · `React` · `Next.js`
+
+---
+
+## Currently Exploring
+
+- agent orchestration
+- tool-use and MCP architectures
+- retrieval + memory systems
+- AI evaluation and observability
+- production AI infrastructure
+- DevOps and deployment automation
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=40&section=header&text=Stats&fontSize=18&fontColor=ffffff&animation=twinkling" width="90%"/>
-
-<table width="90%">
-<tr>
-<td width="45%" valign="top" align="center">
-
-![Streak](https://streak-stats.demolab.com?user=MohamedIlzam&theme=tokyonight&hide_border=true)
-
-</td>
-<td width="55%" valign="top" align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedIlzam&theme=tokyo-night&hide_border=true&area=true)
-
-</td>
-</tr>
-</table>
+**Build intelligent systems. Understand the infrastructure beneath them.**
 
 </div>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Mohamed Ilzam — AI Systems Engineer</title>
+  <desc id="desc">Animated system topology connecting agentic AI, RAG, backend systems and infrastructure.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d0d7de"/>
+      <stop offset="0.5" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#d0d7de"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" rx="28" fill="#ffffff"/>
+  <rect x="1" y="1" width="1198" height="418" rx="27" fill="none" stroke="#d0d7de"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="64" y="84" fill="#57606a" font-size="15" letter-spacing="3">AI SYSTEMS / BACKEND / INFRASTRUCTURE</text>
+    <text x="64" y="154" fill="#24292f" font-size="52" font-weight="700" letter-spacing="-2">MOHAMED ILZAM</text>
+    <text x="64" y="198" fill="#58a6ff" font-size="24" font-weight="600">AI Systems Engineer</text>
+    <text x="64" y="246" fill="#57606a" font-size="17">Agentic AI · RAG · Distributed Backends · DevOps</text>
+    <text x="64" y="304" fill="#57606a" font-size="14">building systems that retrieve context, use tools, and survive production.</text>
+    <g transform="translate(720 68)">
+      <path d="M130 140 L260 70 M130 140 L270 142 M130 140 L255 218 M270 142 L382 82 M270 142 L390 200" fill="none" stroke="#d0d7de" stroke-width="2"/>
+      <path d="M130 140 L260 70 M130 140 L270 142 M130 140 L255 218" fill="none" stroke="url(#line)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="22 120">
+        <animate attributeName="stroke-dashoffset" from="142" to="0" dur="2.8s" repeatCount="indefinite"/>
+      </path>
+      <path d="M270 142 L382 82 M270 142 L390 200" fill="none" stroke="url(#line)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="18 100">
+        <animate attributeName="stroke-dashoffset" from="118" to="0" dur="2.2s" begin="0.7s" repeatCount="indefinite"/>
+      </path>
+      <circle cx="130" cy="140" r="34" fill="#f6f8fa" stroke="#58a6ff" stroke-width="2"/>
+      <circle cx="130" cy="140" r="48" fill="none" stroke="#58a6ff" opacity="0.14">
+        <animate attributeName="r" values="42;55;42" dur="3s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.18;0.03;0.18" dur="3s" repeatCount="indefinite"/>
+      </circle>
+      <text x="130" y="145" text-anchor="middle" fill="#24292f" font-size="14" font-weight="700">AGENT</text>
+      <g fill="#f6f8fa" stroke="#afb8c1" stroke-width="1.5">
+        <circle cx="260" cy="70" r="27"/><circle cx="270" cy="142" r="27"/><circle cx="255" cy="218" r="27"/><circle cx="382" cy="82" r="24"/><circle cx="390" cy="200" r="24"/>
+      </g>
+      <g fill="#24292f" font-size="11" text-anchor="middle">
+        <text x="260" y="74">RAG</text><text x="270" y="146">MCP</text><text x="255" y="222">MEMORY</text><text x="382" y="86">TOOLS</text><text x="390" y="204">INFRA</text>
+      </g>
+      <g fill="#58a6ff">
+        <circle r="4"><animateMotion dur="2.8s" repeatCount="indefinite" path="M130 140 L260 70"/></circle>
+        <circle r="4"><animateMotion dur="2.4s" begin="0.5s" repeatCount="indefinite" path="M130 140 L270 142 L382 82"/></circle>
+        <circle r="4"><animateMotion dur="3.1s" begin="1s" repeatCount="indefinite" path="M130 140 L255 218 L390 200"/></circle>
+      </g>
+    </g>
+    <g transform="translate(64 360)">
+      <circle cx="6" cy="-4" r="5" fill="#3fb950">
+        <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="22" y="0" fill="#57606a" font-size="13">SYSTEM STATUS: BUILDING</text>
+      <text x="1010" y="0" text-anchor="end" fill="#6e7781" font-size="12">github.com/MohamedIlzam</text>
+    </g>
+  </g>
+</svg>
