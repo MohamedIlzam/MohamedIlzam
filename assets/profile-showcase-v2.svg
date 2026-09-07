@@ -55,8 +55,8 @@
 <text x="88" y="94" fill="#7d8590" font-size="14" letter-spacing="3">AI SYSTEMS / AGENTIC WORKFLOWS / BACKEND / INFRA</text>
 <text x="88" y="166" fill="#f0f6fc" font-size="56" font-weight="700" letter-spacing="-2">MOHAMED ILZAM</text>
 <text x="88" y="208" fill="#58a6ff" font-size="24" font-weight="700">AI Systems Engineer</text>
-<text x="88" y="244" fill="#b1bac4" font-size="15.5">I build intelligent systems that retrieve context, use tools,</text>
-<text x="88" y="268" fill="#b1bac4" font-size="15.5">and ship into production.</text>
+<text x="88" y="242" fill="#b1bac4" font-size="14">I build intelligent software systems—from agentic AI and RAG to</text>
+<text x="88" y="266" fill="#b1bac4" font-size="14">backend services, infrastructure, and CI/CD-driven production delivery.</text>
 
 <!-- CORE LANGUAGES -->
 <text x="88" y="302" fill="#7d8590" font-size="11" font-weight="600" letter-spacing="2">CORE LANGUAGES</text>
