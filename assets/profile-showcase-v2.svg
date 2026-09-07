@@ -104,15 +104,7 @@
   </g>
 </g>
 
-<!-- RUNTIME STATUS (CLEAN / NON-OVERLAPPING) -->
-<g>
-  <rect x="88" y="362" width="186" height="28" rx="14" fill="#0c1322" stroke="#22324c"/>
-  <circle cx="104" cy="376" r="4.5" fill="#3fb950">
-    <animate attributeName="opacity" values="1;.3;1" dur="1.5s" repeatCount="indefinite"/>
-  </circle>
-  <text x="116" y="380" fill="#8b949e" font-size="11" letter-spacing="1">STATUS</text>
-  <text x="176" y="380" fill="#3fb950" font-size="11" font-weight="700" letter-spacing="1">READY</text>
-</g>
+
 
 <!-- SYSTEM STACK -->
 <g transform="translate(700 58)">
@@ -190,6 +182,14 @@
 <g opacity="0">
   <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.03;.22;.25;1" dur="16s" repeatCount="indefinite"/>
   <text x="80" y="542" fill="#58a6ff" font-size="13">01 / 04</text>
+  <g transform="translate(148 526)">
+    <rect width="24" height="24" rx="6" fill="#0c1322" stroke="#22324c"/>
+    <g transform="translate(3 3) scale(0.95)">
+      <path d="M2 13h13a1 1 0 0 1 1 1v1a5 5 0 0 1-5 5H6a5 5 0 0 1-5-5v-1a1 1 0 0 1 1-1z" fill="#ea580c"/>
+      <path d="M16 14h2a2 2 0 0 1 2 2v0a2 2 0 0 1-2 2h-2" fill="none" stroke="#ea580c" stroke-width="1.8"/>
+      <path d="M5 10c1-2 0-3 1-5M9 10c1-2 0-3 1-5M13 10c1-2 0-3 1-5" fill="none" stroke="#f97316" stroke-width="1.4" stroke-linecap="round"/>
+    </g>
+  </g>
   <text x="80" y="574" fill="#f0f6fc" font-size="27" font-weight="700">Distributed Messaging System</text>
   <text x="80" y="603" fill="#b1bac4" font-size="14">Fault-tolerant cluster with quorum replication, self-healing reads, and idempotent writes.</text>
   <text x="80" y="631" fill="#7d8590" font-size="12">Java · MySQL · HikariCP</text>
@@ -212,9 +212,14 @@
 <g opacity="0">
   <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.03;.22;.25;1" dur="16s" begin="4s" repeatCount="indefinite"/>
   <text x="80" y="542" fill="#f59e0b" font-size="13">02 / 04</text>
+  <g transform="translate(148 526)">
+    <rect width="24" height="24" rx="6" fill="#0c1322" stroke="#22324c"/>
+    <rect x="3" y="3" width="18" height="18" rx="4" fill="#3178c6"/>
+    <text x="12" y="15.5" text-anchor="middle" fill="#ffffff" font-family="system-ui,sans-serif" font-size="10" font-weight="800">TS</text>
+  </g>
   <text x="80" y="574" fill="#f0f6fc" font-size="27" font-weight="700">CalTrack</text>
   <text x="80" y="603" fill="#b1bac4" font-size="14">AI-assisted nutrition platform grounded in real user activity and vector retrieval.</text>
-  <text x="80" y="631" fill="#7d8590" font-size="12">Next.js · NestJS · Prisma · PostgreSQL/pgvector · Redis</text>
+  <text x="80" y="631" fill="#7d8590" font-size="12">TypeScript · Next.js · NestJS · Prisma · PostgreSQL/pgvector · Redis</text>
 
   <g transform="translate(806 530)">
     <text x="0" y="5" fill="#7d8590" font-size="10">USER</text>
@@ -238,9 +243,26 @@
 <g opacity="0">
   <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.03;.22;.25;1" dur="16s" begin="8s" repeatCount="indefinite"/>
   <text x="80" y="542" fill="#58a6ff" font-size="13">03 / 04</text>
-  <text x="80" y="574" fill="#f0f6fc" font-size="24" font-weight="700">Kodikara Bake House Management System</text>
+  <g transform="translate(148 526)">
+    <!-- Java -->
+    <g>
+      <rect width="24" height="24" rx="6" fill="#0c1322" stroke="#22324c"/>
+      <g transform="translate(3 3) scale(0.95)">
+        <path d="M2 13h13a1 1 0 0 1 1 1v1a5 5 0 0 1-5 5H6a5 5 0 0 1-5-5v-1a1 1 0 0 1 1-1z" fill="#ea580c"/>
+        <path d="M16 14h2a2 2 0 0 1 2 2v0a2 2 0 0 1-2 2h-2" fill="none" stroke="#ea580c" stroke-width="1.8"/>
+        <path d="M5 10c1-2 0-3 1-5M9 10c1-2 0-3 1-5M13 10c1-2 0-3 1-5" fill="none" stroke="#f97316" stroke-width="1.4" stroke-linecap="round"/>
+      </g>
+    </g>
+    <!-- TypeScript -->
+    <g transform="translate(30 0)">
+      <rect width="24" height="24" rx="6" fill="#0c1322" stroke="#22324c"/>
+      <rect x="3" y="3" width="18" height="18" rx="4" fill="#3178c6"/>
+      <text x="12" y="15.5" text-anchor="middle" fill="#ffffff" font-family="system-ui,sans-serif" font-size="10" font-weight="800">TS</text>
+    </g>
+  </g>
+  <text x="80" y="574" fill="#f0f6fc" font-size="27" font-weight="700">Kodikara BMS</text>
   <text x="80" y="603" fill="#b1bac4" font-size="14">Containerized ERP for operations, sales, payments, reporting, and E2E testing.</text>
-  <text x="80" y="631" fill="#7d8590" font-size="12">Spring Boot · React · MySQL · Docker · Cypress</text>
+  <text x="80" y="631" fill="#7d8590" font-size="12">Java · TypeScript · Spring Boot · React · MySQL · Docker · Cypress</text>
 
   <g transform="translate(842 520)">
     <rect width="235" height="100" rx="18" fill="#101724" stroke="#334155"/>
@@ -259,6 +281,14 @@
 <g opacity="0">
   <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.03;.22;.25;1" dur="16s" begin="12s" repeatCount="indefinite"/>
   <text x="80" y="542" fill="#f59e0b" font-size="13">04 / 04</text>
+  <g transform="translate(148 526)">
+    <rect width="24" height="24" rx="6" fill="#0c1322" stroke="#22324c"/>
+    <g transform="translate(3 3) scale(0.95)">
+      <path d="M2 13h13a1 1 0 0 1 1 1v1a5 5 0 0 1-5 5H6a5 5 0 0 1-5-5v-1a1 1 0 0 1 1-1z" fill="#ea580c"/>
+      <path d="M16 14h2a2 2 0 0 1 2 2v0a2 2 0 0 1-2 2h-2" fill="none" stroke="#ea580c" stroke-width="1.8"/>
+      <path d="M5 10c1-2 0-3 1-5M9 10c1-2 0-3 1-5M13 10c1-2 0-3 1-5" fill="none" stroke="#f97316" stroke-width="1.4" stroke-linecap="round"/>
+    </g>
+  </g>
   <text x="80" y="574" fill="#f0f6fc" font-size="27" font-weight="700">Skill Share</text>
   <text x="80" y="603" fill="#b1bac4" font-size="14">P2P skill exchange with dynamic multi-criteria search and structured backend services.</text>
   <text x="80" y="631" fill="#7d8590" font-size="12">Java · Spring Boot · JPA</text>
