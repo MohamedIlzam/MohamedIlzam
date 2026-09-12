@@ -6,7 +6,9 @@ I design and build **intelligent software systems and distributed architectures*
 
 ---
 
-### ⚡ Engineering Ecosystem & Tech Stack
+<details open>
+<summary><b>⚡ 01 &nbsp;|&nbsp; Core Engineering Ecosystem &amp; Tech Stack</b></summary>
+<br/>
 
 #### 🧠 Intelligent Systems & Agentic AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,9 +45,13 @@ I design and build **intelligent software systems and distributed architectures*
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+</details>
+
 ---
 
-### 🏗️ Featured Systems Architecture
+<details open>
+<summary><b>🏗️ 02 &nbsp;|&nbsp; Featured Systems &amp; Production Architecture</b></summary>
+<br/>
 
 | System | Architecture & Engineering Focus | Core Stack | Repository |
 | :--- | :--- | :--- | :---: |
@@ -56,14 +62,20 @@ I design and build **intelligent software systems and distributed architectures*
 | **Skill Share** | Composable P2P platform featuring a **dynamic multi-criteria search engine** built on Spring Data JPA Specifications and structured service layers. | `Java` · `Spring Boot` · `JPA` · `MySQL` | [Code →](https://github.com/aruns-ue25/Skill-Share) |
 | **TaskLang++** | Custom Domain-Specific Language (DSL) designed for **deterministic task scheduling, pipeline orchestration, and automation**. | `C` · `Lex/Yacc` · `Automation` | [Code →](https://github.com/MohamedIlzam/TaskLang-Assignment) |
 
+</details>
+
 ---
 
-### 🔍 Architectural Highlights
+<details open>
+<summary><b>🔍 03 &nbsp;|&nbsp; Architectural Highlights &amp; Engineering Focus</b></summary>
+<br/>
 
 * **Event-Driven Streaming & Decoupling**: Designing asynchronous pipelines with **Apache Kafka**, partition management, and reliable consumer state.
 * **Consensus & Fault Tolerance**: Implementing distributed replication models with **Quorum Consensus**, anti-entropy recovery, and self-healing read repair.
 * **Vector Retrieval & Agentic Context**: Integrating **pgvector**, embeddings, and custom tool calling to ground LLM reasoning in verified domain context.
 * **Production Reliability**: Backing code with **Cypress automated E2E test suites**, containerized Docker workflows, and GitHub Actions CI delivery.
+
+</details>
 
 <div align="center">
 
