@@ -2,13 +2,6 @@
   <img src="./assets/profile-showcase-v2.svg" alt="AI Systems Engineer" width="100%" />
 </p>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ilzam--ibrahim-0f172a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilzam-ibrahim)
-[![Email](https://img.shields.io/badge/Email-mohammedilzam0%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedilzam0@gmail.com)
-
-</div>
-
 I design and build **intelligent software systems and distributed architectures**—combining agentic AI workflows, vector retrieval, event-driven backends, and containerized CI/CD delivery. My work focuses on building resilient, self-healing services that move beyond isolated prototypes into reliable production environments.
 
 ---
@@ -73,6 +66,11 @@ I design and build **intelligent software systems and distributed architectures*
 * **Production Reliability**: Backing code with **Cypress automated E2E test suites**, containerized Docker workflows, and GitHub Actions CI delivery.
 
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ilzam--ibrahim-0f172a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilzam-ibrahim)
+[![Email](https://img.shields.io/badge/Email-mohammedilzam0%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedilzam0@gmail.com)
+
+<br/><br/>
 
 **Build intelligent systems. Understand the infrastructure beneath them.**
 
