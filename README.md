@@ -2,10 +2,6 @@
   <img src="./assets/profile-showcase-v2.svg" alt="AI Systems Engineer" width="100%" />
 </p>
 
-I design and build **intelligent software systems and distributed architectures**—combining agentic AI workflows, vector retrieval, event-driven backends, and containerized CI/CD delivery. My work focuses on building resilient, self-healing services that move beyond isolated prototypes into reliable production environments.
-
----
-
 <details open>
 <summary><b>⚡ 01 &nbsp;|&nbsp; Core Engineering Ecosystem &amp; Tech Stack</b></summary>
 <br/>
