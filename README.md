@@ -2,7 +2,7 @@
   <img src="./assets/profile-showcase-v2.svg" alt="AI Systems Engineer" width="100%" />
 </p>
 
-<details open>
+<details>
 <summary><b>⚡ 01 &nbsp;|&nbsp; Core Engineering Ecosystem &amp; Tech Stack</b></summary>
 <br/>
 
@@ -45,7 +45,7 @@
 
 ---
 
-<details open>
+<details>
 <summary><b>🏗️ 02 &nbsp;|&nbsp; Featured Systems &amp; Production Architecture</b></summary>
 <br/>
 
@@ -62,7 +62,7 @@
 
 ---
 
-<details open>
+<details>
 <summary><b>🔍 03 &nbsp;|&nbsp; Architectural Highlights &amp; Engineering Focus</b></summary>
 <br/>
 
