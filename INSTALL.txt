@@ -1,0 +1,11 @@
+PROFILE README UPGRADE
+
+1. Extract this ZIP.
+2. In MohamedIlzam/MohamedIlzam, replace README.md and upload assets/profile-hero.svg into the assets folder.
+3. Commit both files together. The profile uses the repository README automatically.
+
+The SVG includes a subtle entrance, orbiting nodes, flowing connector lines, a soft pulse and blinking terminal cursor. Reduced-motion preferences disable the effects. No workflow, external animation service or JavaScript is required.
+
+Project descriptions, stack badges and contact links come from the original README; they have not been independently fact-checked.
+The old assets/profile-showcase-v2.svg can remain in the repository.
+GitHub's Markdown itself does not provide page transitions or hover effects. Motion is contained in the SVG image.
