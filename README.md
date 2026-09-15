@@ -1,43 +1,10 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="Ilzam Ibrahim — AI Systems Engineer. Intelligent software. Reliable infrastructure." width="100%" />
+  <img src="./assets/profile-showcase-v2.svg" alt="AI Systems Engineer" width="100%" />
 </p>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ilzam--ibrahim-0f172a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilzam-ibrahim)
-[![Email](https://img.shields.io/badge/Email-mohammedilzam0%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedilzam0@gmail.com)
-
-
-**Building intelligent systems—and understanding the infrastructure beneath them.**
-
-[Selected projects](#selected-projects) · [Engineering focus](#engineering-focus) · [Tech stack](#tech-stack)
-
-</div>
-
-## Selected projects
-
-| System | Architecture & Engineering Focus | Core Stack | Repository |
-| :--- | :--- | :--- | :---: |
-| **Distributed Messaging Cluster** | Fault-tolerant 3-node cluster with **quorum consensus replication**, two-tiered storage (LRU cache + SQL), idempotent writes, and **active read repair**. | `Java` · `MySQL` · `HikariCP` | [Code →](https://github.com/aruns-ue25/DS-Messaging-System) |
-| **Event-Driven Client Lifecycle Platform** | Scalable enterprise architecture with **asynchronous Kafka event streaming**, microservice workflows, and decoupled message ingestion. | `.NET 8` · `C#` · `Kafka` · `PostgreSQL` | *(Active Project)* |
-| **CalTrack** | Mobile-first nutrition platform with an **AI chat coach grounded in activity data via vector retrieval**, multi-tier Redis caching, and relational integrity. | `Next.js` · `NestJS` · `pgvector` · `Prisma` · `Redis` | [Code →](https://github.com/MohamedIlzam/CalTrack) |
-| **Kodikara BMS** | Containerized enterprise ERP with DTO mapping, transactional integrity, operational workflows, and **automated Cypress E2E test suites** in CI. | `Spring Boot` · `React` · `MySQL` · `Docker` · `Cypress` | [Code →](https://github.com/MohamedIlzam/Bakery-Management-System-Project) |
-| **Skill Share** | Composable P2P platform featuring a **dynamic multi-criteria search engine** built on Spring Data JPA Specifications and structured service layers. | `Java` · `Spring Boot` · `JPA` · `MySQL` | [Code →](https://github.com/aruns-ue25/Skill-Share) |
-| **TaskLang++** | Custom Domain-Specific Language (DSL) designed for **deterministic task scheduling, pipeline orchestration, and automation**. | `C` · `Lex/Yacc` · `Automation` | [Code →](https://github.com/MohamedIlzam/TaskLang-Assignment) |
-
-
-## Engineering focus
-
-* **Event-Driven Streaming & Decoupling**: Designing asynchronous pipelines with **Apache Kafka**, partition management, and reliable consumer state.
-* **Consensus & Fault Tolerance**: Implementing distributed replication models with **Quorum Consensus**, anti-entropy recovery, and self-healing read repair.
-* **Vector Retrieval & Agentic Context**: Integrating **pgvector**, embeddings, and custom tool calling to ground LLM reasoning in verified domain context.
-* **Production Reliability**: Backing code with **Cypress automated E2E test suites**, containerized Docker workflows, and GitHub Actions CI delivery.
-
-
-## Tech stack
-
 <details>
-<summary><b>Explore languages, frameworks and infrastructure</b></summary>
+<summary><b>⚡ 01 &nbsp;|&nbsp; Core Engineering Ecosystem &amp; Tech Stack</b></summary>
+<br/>
 
 #### 🧠 Intelligent Systems & Agentic AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -74,9 +41,45 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+</details>
+
+---
+
+<details>
+<summary><b>🏗️ 02 &nbsp;|&nbsp; Featured Systems &amp; Production Architecture</b></summary>
+<br/>
+
+| System | Architecture & Engineering Focus | Core Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| **Distributed Messaging Cluster** | Fault-tolerant 3-node cluster with **quorum consensus replication**, two-tiered storage (LRU cache + SQL), idempotent writes, and **active read repair**. | `Java` · `MySQL` · `HikariCP` | [Code →](https://github.com/aruns-ue25/DS-Messaging-System) |
+| **Event-Driven Client Lifecycle Platform** | Scalable enterprise architecture with **asynchronous Kafka event streaming**, microservice workflows, and decoupled message ingestion. | `.NET 8` · `C#` · `Kafka` · `PostgreSQL` | *(Active Project)* |
+| **CalTrack** | Mobile-first nutrition platform with an **AI chat coach grounded in activity data via vector retrieval**, multi-tier Redis caching, and relational integrity. | `Next.js` · `NestJS` · `pgvector` · `Prisma` · `Redis` | [Code →](https://github.com/MohamedIlzam/CalTrack) |
+| **Kodikara BMS** | Containerized enterprise ERP with DTO mapping, transactional integrity, operational workflows, and **automated Cypress E2E test suites** in CI. | `Spring Boot` · `React` · `MySQL` · `Docker` · `Cypress` | [Code →](https://github.com/MohamedIlzam/Bakery-Management-System-Project) |
+| **Skill Share** | Composable P2P platform featuring a **dynamic multi-criteria search engine** built on Spring Data JPA Specifications and structured service layers. | `Java` · `Spring Boot` · `JPA` · `MySQL` | [Code →](https://github.com/aruns-ue25/Skill-Share) |
+| **TaskLang++** | Custom Domain-Specific Language (DSL) designed for **deterministic task scheduling, pipeline orchestration, and automation**. | `C` · `Lex/Yacc` · `Automation` | [Code →](https://github.com/MohamedIlzam/TaskLang-Assignment) |
 
 </details>
 
 ---
 
-<p align="center"><sub>Intelligent at the application layer. Reliable all the way down.</sub></p>
+<details>
+<summary><b>🔍 03 &nbsp;|&nbsp; Architectural Highlights &amp; Engineering Focus</b></summary>
+<br/>
+
+* **Event-Driven Streaming & Decoupling**: Designing asynchronous pipelines with **Apache Kafka**, partition management, and reliable consumer state.
+* **Consensus & Fault Tolerance**: Implementing distributed replication models with **Quorum Consensus**, anti-entropy recovery, and self-healing read repair.
+* **Vector Retrieval & Agentic Context**: Integrating **pgvector**, embeddings, and custom tool calling to ground LLM reasoning in verified domain context.
+* **Production Reliability**: Backing code with **Cypress automated E2E test suites**, containerized Docker workflows, and GitHub Actions CI delivery.
+
+</details>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ilzam--ibrahim-0f172a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilzam-ibrahim)
+[![Email](https://img.shields.io/badge/Email-mohammedilzam0%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedilzam0@gmail.com)
+
+<br/><br/>
+
+**Build intelligent systems. Understand the infrastructure beneath them.**
+
+</div>
